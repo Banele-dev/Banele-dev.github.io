@@ -56,9 +56,13 @@ o	Maintaining data quality and overseeing database security, database management
 
 # Education
 # TERTIARY EDUCATION:
+
 University of South Africa
+
 Bachelor of Commerce Honours in Business Informatics
+
 2022 - 2023
+
 Modules: 
 •	Research Methods & Proposal.
 •	Honours Research Report.
@@ -89,6 +93,7 @@ Artificial Intelligence in the 4IR - Short Learning Programme
 2020 - 2020
 
 Course Overview:
+
 •	Developed an understanding of the 4IR and Automation.
 •	Developed an understanding of the evolution of AI.
 •	Discussed foundational concepts and techniques of AI and their application to real-life problems.
@@ -112,14 +117,21 @@ Modules:
 •	Communications Networks.
 
 # COMPLETED ONLINE COURSES:
+
 Udemy:
+
 •	Automate the Boring Stuff with Python Programming.
 
 Alison:
+
 •	 Advanced Diploma in Python Programming for the Novice to Expert.
 
 # Projects
+
 •	SAP Reports Extraction.
+
 •	Bulk Tax Directives.
+
 •	Month-end Close for De Beers SA.
+
 •	SAP/SUNET Vendor Notifications.
