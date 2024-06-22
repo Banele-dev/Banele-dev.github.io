@@ -28,17 +28,17 @@ Position: System Support Administrator
 
 Duties: 
 
-o	Write, test, and maintain Python scripts to automate tasks and processes, ensuring high performance and responsiveness to requests from front-end applications.
+* Write, test, and maintain Python scripts to automate tasks and processes, ensuring high performance and responsiveness to requests from front-end applications.
 
-o	Design and implement data processing and data analysis workflows using Python libraries like pandas, NumPy, and others to handle large datasets efficiently.
+* Design and implement data processing and data analysis workflows using Python libraries like pandas, NumPy, and others to handle large datasets efficiently.
 
-o	Develop automation solutions to streamline business processes, reduce manual effort, and improve accuracy using Python.
+* Develop automation solutions to streamline business processes, reduce manual effort, and improve accuracy using Python.
 
-o	Collaborate with cross-functional teams, participate in code reviews, and provide constructive feedback to ensure high code quality and knowledge sharing.
+* Collaborate with cross-functional teams, participate in code reviews, and provide constructive feedback to ensure high code quality and knowledge sharing.
 
-o	Identify bottlenecks and bugs in the scripts, and devise solutions to address performance issues and ensure optimal operation.
+* Identify bottlenecks and bugs in the scripts, and devise solutions to address performance issues and ensure optimal operation.
 
-o	Develop web scraping solutions using Selenium to extract data from websites, ensuring compliance with legal and ethical standards.
+* Develop web scraping solutions using Selenium to extract data from websites, ensuring compliance with legal and ethical standards.
 
 
 2.	Anglo American
@@ -49,21 +49,21 @@ Position: SAP System Administrator
 
 Duties: 
 
-o	Operating as the main point of contact for tracking, taking responsibility for, and handling user inquiries, concerns, and problems.
+* Operating as the main point of contact for tracking, taking responsibility for, and handling user inquiries, concerns, and problems.
 
-o	Log, categorise, prioritise, and assign all relevant user, infrastructure and application-related incidents and requests.
+* Log, categorise, prioritise, and assign all relevant user, infrastructure and application-related incidents and requests.
 
-o	Analyse, identify, and address issues and requests, making ensuring they are handled according to established service standards.
+* Analyse, identify, and address issues and requests, making ensuring they are handled according to established service standards.
 
-o	Serving as the liaison between the user community, application and infrastructure functions, and service management.
+* Serving as the liaison between the user community, application and infrastructure functions, and service management.
 
-o	Diagnose and resolve end-user problems using a range of hardware, software, network, and communications technologies.
+* Diagnose and resolve end-user problems using a range of hardware, software, network, and communications technologies.
 
-o	Provide technical assistance, troubleshoot technical problems, and assist staff members and clients in resolving them.
+* Provide technical assistance, troubleshoot technical problems, and assist staff members and clients in resolving them.
 
-o	Maintain, co-ordinate and optimize the usage of all the applicable software systems.
+* Maintain, co-ordinate and optimize the usage of all the applicable software systems.
 
-o	Acting as escalation point for troubleshooting advanced network/systems issues, consistently earned 100% issue-resolution scores by providing excellent service to internal and external users.
+* Acting as escalation point for troubleshooting advanced network/systems issues, consistently earned 100% issue-resolution scores by providing excellent service to internal and external users.
 
 
 3.	University of Johannesburg
@@ -74,7 +74,7 @@ Position: Communication Networks 3A Tutor
 
 Duties: 
 
-o	Main Focus: Linux.
+* Main Focus: Linux.
 
 
 4.	University of Johannesburg
@@ -85,15 +85,15 @@ Position:  BCom Information Systems SQL Tutor
 
 Duties: 
 
-o	Designing database tables and structures.
+* Designing database tables and structures.
 
-o	Creating views, functions, and stored procedures.
+* Creating views, functions, and stored procedures.
 
-o	Writing optimized SQL queries for integration with other applications.
+* Writing optimized SQL queries for integration with other applications.
 
-o	Creating database triggers.
+* Creating database triggers.
 
-o	Maintaining data quality and overseeing database security, database management.
+* Maintaining data quality and overseeing database security, database management.
 
 
 # Education
@@ -107,17 +107,17 @@ Bachelor of Commerce Honours in Business Informatics
 
 Modules: 
 
-•	Research Methods & Proposal.
+* Research Methods & Proposal.
 
-•	Honours Research Report.
+* Honours Research Report.
 
-•	Software Engineering.
+* Software Engineering.
 
-•	Information Security.
+* Information Security.
 
-•	Managerial and Organizational Psychology.
+* Managerial and Organizational Psychology.
 
-•	Operational Risk Management.
+* Operational Risk Management.
 
 
 University of Johannesburg
@@ -127,17 +127,17 @@ Advanced Diploma in Business Information Technology
 2020 – 2020
 
 Modules: 
-•	Advanced Database.
+* Advanced Database.
 
-•	Advanced Programming.
+* Advanced Programming.
 
-•	Advanced Business Analysis.
+* Advanced Business Analysis.
 
-•	Software Project.
+* Software Project.
 
-•	Software Requirements.
+* Software Requirements.
 
-•	Human Computer Interface.
+* Human Computer Interface.
 
 •	Software Testing.
 
@@ -150,21 +150,21 @@ Artificial Intelligence in the 4IR - Short Learning Programme
 
 Course Overview:
 
-•	Developed an understanding of the 4IR and Automation.
+* Developed an understanding of the 4IR and Automation.
 
-•	Developed an understanding of the evolution of AI.
+* Developed an understanding of the evolution of AI.
 
-•	Discussed foundational concepts and techniques of AI and their application to real-life problems.
+* Discussed foundational concepts and techniques of AI and their application to real-life problems.
 
-•	Explored advances in AI research, application and commercialisation in the United States and the West.
+* Explored advances in AI research, application and commercialisation in the United States and the West.
 
-•	Explored advances in AI research, application, and commercialisation in China.
+* Explored advances in AI research, application, and commercialisation in China.
 
-•	Unpacked the implications of AI for the future of the world of work.
+* Unpacked the implications of AI for the future of the world of work.
 
-•	Awareness of social and ethical considerations of AI technology.
+* Awareness of social and ethical considerations of AI technology.
 
-•	Reflecting on the future of AI for society.
+* Reflecting on the future of AI for society.
 
 
 University of Johannesburg
@@ -175,34 +175,34 @@ Diploma in Business Information Technology
 
 Modules:
 
-•	Business Analysis.
+* Business Analysis.
 
-•	Information Systems.
+* Information Systems.
 
-•	Development Software.
+* Development Software.
 
-•	Project Management.
+* Project Management.
 
-•	Communications Networks.
+* Communications Networks.
 
 
 # COMPLETED ONLINE COURSES:
 
 Udemy:
 
-•	Automate the Boring Stuff with Python Programming.
+* Automate the Boring Stuff with Python Programming.
 
 Alison:
 
-•	 Advanced Diploma in Python Programming for the Novice to Expert.
+* Advanced Diploma in Python Programming for the Novice to Expert.
 
 
 # Projects
 
-•	SAP Reports Extraction.
+* SAP Reports Extraction.
 
-•	Bulk Tax Directives.
+* Bulk Tax Directives.
 
-•	Month-end Close for De Beers SA.
+* Month-end Close for De Beers SA.
 
-•	SAP/SUNET Vendor Notifications.
+* SAP/SUNET Vendor Notifications.
