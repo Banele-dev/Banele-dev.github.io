@@ -5,17 +5,17 @@ Passionate about streamlining business operations through cutting-edge automatio
 
 # Top Skills
 
-•	Demonstrated experience and proficiency in Python programming and scripting.
+* Demonstrated experience and proficiency in Python programming and scripting.
 
-•	Proficiency in both written and oral communication, as is the ability to work well with others.
+* Proficiency in both written and oral communication, as is the ability to work well with others.
 
-•	Ability to communicate difficult scientific ideas in an interesting and understandable manner.
+* Ability to communicate difficult scientific ideas in an interesting and understandable manner.
 
-•	Proven expertise and competence in SQL.
+* Proven expertise and competence in SQL.
 
-•	Outstanding communication skills, particularly in comprehending and outlining requirements for a project.
+* Outstanding communication skills, particularly in comprehending and outlining requirements for a project.
 
-•	Capable of working both individually and cooperatively in a team setting.
+* Capable of working both individually and cooperatively in a team setting.
 
 
 # Professional Expereince
