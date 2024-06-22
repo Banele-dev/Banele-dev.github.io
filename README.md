@@ -40,7 +40,8 @@ o	Identify bottlenecks and bugs in the scripts, and devise solutions to address 
 
 o	Develop web scraping solutions using Selenium to extract data from websites, ensuring compliance with legal and ethical standards.
 
-3.	Anglo American
+
+2.	Anglo American
    
 October 2020 – September 2021
 
@@ -64,7 +65,8 @@ o	Maintain, co-ordinate and optimize the usage of all the applicable software sy
 
 o	Acting as escalation point for troubleshooting advanced network/systems issues, consistently earned 100% issue-resolution scores by providing excellent service to internal and external users.
 
-5.	University of Johannesburg
+
+3.	University of Johannesburg
    
 February 2020 – June 2020
 
@@ -74,7 +76,8 @@ Duties:
 
 o	Main Focus: Linux.
 
-7.	University of Johannesburg
+
+4.	University of Johannesburg
    
 February 2020 – June 2020
 
@@ -116,6 +119,7 @@ Modules:
 
 •	Operational Risk Management.
 
+
 University of Johannesburg
 
 Advanced Diploma in Business Information Technology 
@@ -136,6 +140,7 @@ Modules:
 •	Human Computer Interface.
 
 •	Software Testing.
+
 
 University of Johannesburg
 
@@ -161,6 +166,7 @@ Course Overview:
 
 •	Reflecting on the future of AI for society.
 
+
 University of Johannesburg
 
 Diploma in Business Information Technology
@@ -179,6 +185,7 @@ Modules:
 
 •	Communications Networks.
 
+
 # COMPLETED ONLINE COURSES:
 
 Udemy:
@@ -188,6 +195,7 @@ Udemy:
 Alison:
 
 •	 Advanced Diploma in Python Programming for the Novice to Expert.
+
 
 # Projects
 
